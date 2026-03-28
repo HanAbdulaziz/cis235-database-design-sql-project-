@@ -19,3 +19,8 @@ The system includes mapped relational tables with sample data and SQL queries to
 - Data Management
 - Problem Solving
 - Team Collaboration
+- 
+## File Included
+- ER Diagram
+- Database Tables
+- SQL Queries
